@@ -1,0 +1,9 @@
+CustomerID,Name,Age,Gender,City,Email,Salary
+1,Arun,25,Male,Chennai,arun@gmail.com,50000
+2,Priya,,Female,chennai,priya@gmail.com,60000
+3,Ravi,45,Male,Mumbai,ravi@gmail,70000
+4,Anu,200,Female,Delhi,anu@gmail.com,80000
+5,Arun,25,Male,Chennai,arun@gmail.com,50000
+6,,30,Female,Bangalore,sneha@gmail.com,
+7,Kiran,29,male,Bengaluru,kiran@gmail.com,45000
+8,Divya,-5,Female,Delhi,divya@gmail.com,52000
