@@ -1,0 +1,6 @@
+Age,Income,Balance,JoinDate,Feedback,churn,SavingRatio,Gender_Male,JoinYear,JoinMonth,CustomerAgeDays,Feedback_length,Word_count,Income_level,Income_Balance_Product
+22,35000,15000,2021-01-10,Good service,0,0.42857142857142855,True,2021,1,1999,12,2,Low,525000000
+45,72000,35000,2020-05-15,Very bad support,1,0.4861111111111111,False,2020,5,2239,16,3,High,2520000000
+36,55000,22000,2022-02-18,Excellent experience,0,0.4,False,2022,2,1595,20,2,Medium,1210000000
+28,42000,12000,2021-11-05,Average service,0,0.2857142857142857,True,2021,11,1700,15,2,Medium,504000000
+52,85000,40000,2019-08-20,Poor response,1,0.47058823529411764,False,2019,8,2508,13,2,High,3400000000

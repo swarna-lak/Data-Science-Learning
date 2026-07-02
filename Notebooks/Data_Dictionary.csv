@@ -1,0 +1,17 @@
+Feature,Type,Description
+CustomerID,Identifier,Unique customer identifier
+Age,Numeric,Customer age
+Income,Numeric,Annual income
+Balance,Numeric,Current account balance
+JoinDate,Datetime,Customer joining date
+Feedback,Text,Customer feedback
+Churn,Target,"Target variable (0=No,1=Yes)"
+SavingsRatio,Numeric,Balance divided by Income
+Gender_Male,Categorical,Gender encoded (True=Male)
+JoinYear,Numeric,Year customer joined
+JoinMonth,Numeric,Month customer joined
+CustomerAgeDays,Numeric,Days since joining
+Feedback_Length,Numeric,Number of characters in feedback
+Word_Count,Numeric,Number of words in feedback
+Income_Level,Categorical,Income grouped into Low/Medium/High
+Income_Balance_Product,Numeric,Income multiplied by Balance
